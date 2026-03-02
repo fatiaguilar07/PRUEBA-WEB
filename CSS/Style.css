@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Segoe UI', sans-serif;
+    background-color: burlywood;
+}
+
+/* LUGAR */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.hero {
+    /* QUE NOS OFRECE */
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+
+/* FOOTER */
+footer{
+    background:#111;
+    color:rgb(255, 255, 255);
+    padding:20px;
+    text-align:center;
+}
